@@ -24,31 +24,31 @@ Welcome to my 30-Day Applied AI Challenge! Over the next 30 days, I will be work
 ### Week 02: Computer Vision (OpenCV & TensorFlow/Keras)
 🎯 **Day 08:** Vehicle detection and counting using OpenCV  
 🎯 **Day 09:** Train a CNN to classify fruits and vegetables  
-🎯 **Day 010:** Helmet detection for bike riders using deep learning  
-🎯 **Day 011:** Classify handwritten signatures for fraud detection  
-🎯 **Day 012:** Image segmentation with U-Net  
-🎯 **Day 013:** Cartoonify an image using deep learning  
-🎯 **Day 014:** AI-generated art using Stable Diffusion  
+🎯 **Day 10:** Helmet detection for bike riders using deep learning  
+🎯 **Day 11:** Classify handwritten signatures for fraud detection  
+🎯 **Day 12:** Image segmentation with U-Net  
+🎯 **Day 13:** Cartoonify an image using deep learning  
+🎯 **Day 14:** AI-generated art using Stable Diffusion  
 
 ### Week 03: NLP & Transformers (Hugging Face & spaCy)
-📝 **Day 015:** Spam classification using an LSTM model  
-📝 **Day 016:** POS tagging with spaCy  
-📝 **Day 017:** AI-generated poetry using GPT-3  
-📝 **Day 018:** Convert speech to text using Whisper AI  
-📝 **Day 019:** Topic modeling with Latent Dirichlet Allocation (LDA)  
-📝 **Day 020:** Identify sarcasm in text using BERT embeddings  
-📝 **Day 021:** AI-generated news articles using GPT  
+📝 **Day 15:** Spam classification using an LSTM model  
+📝 **Day 16:** POS tagging with spaCy  
+📝 **Day 17:** AI-generated poetry using GPT-3  
+📝 **Day 18:** Convert speech to text using Whisper AI  
+📝 **Day 19:** Topic modeling with Latent Dirichlet Allocation (LDA)  
+📝 **Day 20:** Identify sarcasm in text using BERT embeddings  
+📝 **Day 21:** AI-generated news articles using GPT  
 
 ### Week 04: Advanced AI & Real-World Projects
-🚀 **Day 022:** Energy consumption prediction using Recurrent Neural Networks (RNNs)  
-🚀 **Day 023:** AI-powered traffic flow prediction  
-🚀 **Day 024:** Predict earthquake aftershocks using ML  
-🚀 **Day 025:** Deepfake video detection using AI  
-🚀 **Day 026:** Breast cancer classification using deep learning  
-🚀 **Day 027:** AI for wildlife conservation (species classification)  
-🚀 **Day 028:** AI-generated music remixing  
-🚀 **Day 029:** Fire detection in CCTV footage using AI  
-🚀 **Day 030:** Final reflections & AI career roadmap  
+🚀 **Day 22:** Energy consumption prediction using Recurrent Neural Networks (RNNs)  
+🚀 **Day 23:** AI-powered traffic flow prediction  
+🚀 **Day 24:** Predict earthquake aftershocks using ML  
+🚀 **Day 25:** Deepfake video detection using AI  
+🚀 **Day 26:** Breast cancer classification using deep learning  
+🚀 **Day 27:** AI for wildlife conservation (species classification)  
+🚀 **Day 28:** AI-generated music remixing  
+🚀 **Day 29:** Fire detection in CCTV footage using AI  
+🚀 **Day 30:** Final reflections & AI career roadmap  
 
 ## 📌 Each Project Folder Contains:
 📂 **Code:** Full implementation of the project  
