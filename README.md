@@ -83,4 +83,4 @@ python project.py
 This project is open-source under the MIT License. Feel free to use and contribute!
 
 ## 🔗 Connect with Me
-🔹 **LinkedIn:** [linkedin.com/in/aishu](https://www.linkedin.com/in/aishvariyaa-jayakumar-97939525b/)  
+🔹 **LinkedIn:** [linkedin](https://www.linkedin.com/in/aishvariyaa-jayakumar-97939525b/)  
