@@ -39,7 +39,7 @@ For this project, we used the **PIMA Indian Diabetes Dataset**, containing:
 #### 1️⃣ Clone the Repository  
 ```bash
 git clone https://github.com/Aishvariyaa/30-Day-AI-Challenge.git
-cd 30-Day-AI-Challenge/Day-3
+cd 30-Day-AI-Challenge/Day-03
 ```  
 
 #### 2️⃣ Install Dependencies  
