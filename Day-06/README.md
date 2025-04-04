@@ -52,11 +52,6 @@ R-squared Score (R²): 0.52
 | **MSE** | 1,941,285.47 |
 | **R² Score** | 0.52 |
 
-### 📊 **Actual vs Predicted Bike Rentals**  
-The scatter plot below shows the relationship between **actual and predicted bike rentals**:  
-
-![SVR Bike Rental Predictions](file-M7vaW2tZzVoRzLKwxKwNMx.png)  
-
 ## 📌 Next Steps  
 🔹 Tune **C, epsilon, and gamma** to improve performance ⚡  
 🔹 Compare SVR with **Random Forest & XGBoost** 🌲  
