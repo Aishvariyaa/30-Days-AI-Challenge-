@@ -52,12 +52,7 @@ Cluster 3 → High Volume, High Revenue
 |---------|-------------------|--------------|
 | **1**   | 2.17              | 58.04        |
 | **2**   | 12.73             | 318.29       |
-| **3**   | 21.54             | 618.73       |
-
-#### 📊 **Cluster Visualization**  
-The scatter plot below shows **customer segments** based on **sales quantity vs. revenue**:  
-
-![Cluster Visualization](file-8xEJbqvGCSYyTEdrLrvAGs.png)  
+| **3**   | 21.54             | 618.73       |  
 
 ### 📌 Next Steps  
 🔹 Apply **K-Means & DBSCAN** for comparison 🔄  
