@@ -19,7 +19,7 @@ Welcome to my 30-Day Applied AI Challenge! Over the next 30 days, I will be work
 ✅ **Day 04:** Credit score classification using XGBoost  
 ✅ **Day 05:** Market segmentation using Hierarchical Clustering  
 ✅ **Day 06:** Train a Support Vector Regressor for predicting bike rentals  
-✅ **Day 07:** AutoML: Compare Auto-sklearn vs. Manual ML models  
+✅ **Day 07:** AutoML: Comparing Auto-sklearn vs. Manual Hyperparameter Tuning
 
 ### Week 02: Computer Vision (OpenCV & TensorFlow/Keras)
 🎯 **Day 08:** Vehicle detection and counting using OpenCV  
