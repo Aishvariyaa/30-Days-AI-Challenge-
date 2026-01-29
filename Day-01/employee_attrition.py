@@ -1,4 +1,3 @@
-# Importing necessary libraries
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -18,7 +17,7 @@ except FileNotFoundError:
     print(f"Error: The file '{file_path}' was not found. Make sure it's in the correct path.")
     exit()
 
-# Print the first few rows for inspection
+# Print the first few rows for inspectio
 print("\nFirst 5 rows of the dataset:")
 print(df.head())
 
@@ -33,7 +32,7 @@ if 'Attrition' not in df.columns:
     print("\nError: 'Attrition' column not found in the dataset. Please check the column names.")
     exit()
 
-# Convert 'Attrition' column to binary values (Yes -> 1, No -> 0)
+# Convert 'Attrition' column to binary values 
 df['Attrition'] = df['Attrition'].map({'Yes': 1, 'No': 0})
 
 # Drop unnecessary columns like EmployeeID if present
@@ -74,3 +73,4 @@ plt.xlabel("Predicted")
 plt.ylabel("Actual")
 plt.title("Confusion Matrix")
 plt.show()
+
